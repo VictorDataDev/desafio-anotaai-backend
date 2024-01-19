@@ -1,0 +1,12 @@
+D:\Estudos\BackEnd\C#\AnotaAi\AnotaAi.Infrastructure\bin\Debug\net8.0\AnotaAi.Infrastructure.deps.json
+D:\Estudos\BackEnd\C#\AnotaAi\AnotaAi.Infrastructure\bin\Debug\net8.0\AnotaAi.Infrastructure.dll
+D:\Estudos\BackEnd\C#\AnotaAi\AnotaAi.Infrastructure\bin\Debug\net8.0\AnotaAi.Infrastructure.pdb
+D:\Estudos\BackEnd\C#\AnotaAi\AnotaAi.Infrastructure\obj\Debug\net8.0\AnotaAi.Infrastructure.csproj.AssemblyReference.cache
+D:\Estudos\BackEnd\C#\AnotaAi\AnotaAi.Infrastructure\obj\Debug\net8.0\AnotaAi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\BackEnd\C#\AnotaAi\AnotaAi.Infrastructure\obj\Debug\net8.0\AnotaAi.Infrastructure.AssemblyInfoInputs.cache
+D:\Estudos\BackEnd\C#\AnotaAi\AnotaAi.Infrastructure\obj\Debug\net8.0\AnotaAi.Infrastructure.AssemblyInfo.cs
+D:\Estudos\BackEnd\C#\AnotaAi\AnotaAi.Infrastructure\obj\Debug\net8.0\AnotaAi.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Estudos\BackEnd\C#\AnotaAi\AnotaAi.Infrastructure\obj\Debug\net8.0\AnotaAi.Infrastructure.dll
+D:\Estudos\BackEnd\C#\AnotaAi\AnotaAi.Infrastructure\obj\Debug\net8.0\refint\AnotaAi.Infrastructure.dll
+D:\Estudos\BackEnd\C#\AnotaAi\AnotaAi.Infrastructure\obj\Debug\net8.0\AnotaAi.Infrastructure.pdb
+D:\Estudos\BackEnd\C#\AnotaAi\AnotaAi.Infrastructure\obj\Debug\net8.0\ref\AnotaAi.Infrastructure.dll

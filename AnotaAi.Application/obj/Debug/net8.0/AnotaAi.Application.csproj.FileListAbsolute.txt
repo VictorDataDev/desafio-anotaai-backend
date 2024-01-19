@@ -1,0 +1,12 @@
+D:\Estudos\BackEnd\C#\AnotaAi\AnotaAi.Application\bin\Debug\net8.0\AnotaAi.Application.deps.json
+D:\Estudos\BackEnd\C#\AnotaAi\AnotaAi.Application\bin\Debug\net8.0\AnotaAi.Application.dll
+D:\Estudos\BackEnd\C#\AnotaAi\AnotaAi.Application\bin\Debug\net8.0\AnotaAi.Application.pdb
+D:\Estudos\BackEnd\C#\AnotaAi\AnotaAi.Application\obj\Debug\net8.0\AnotaAi.Application.csproj.AssemblyReference.cache
+D:\Estudos\BackEnd\C#\AnotaAi\AnotaAi.Application\obj\Debug\net8.0\AnotaAi.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\BackEnd\C#\AnotaAi\AnotaAi.Application\obj\Debug\net8.0\AnotaAi.Application.AssemblyInfoInputs.cache
+D:\Estudos\BackEnd\C#\AnotaAi\AnotaAi.Application\obj\Debug\net8.0\AnotaAi.Application.AssemblyInfo.cs
+D:\Estudos\BackEnd\C#\AnotaAi\AnotaAi.Application\obj\Debug\net8.0\AnotaAi.Application.csproj.CoreCompileInputs.cache
+D:\Estudos\BackEnd\C#\AnotaAi\AnotaAi.Application\obj\Debug\net8.0\AnotaAi.Application.dll
+D:\Estudos\BackEnd\C#\AnotaAi\AnotaAi.Application\obj\Debug\net8.0\refint\AnotaAi.Application.dll
+D:\Estudos\BackEnd\C#\AnotaAi\AnotaAi.Application\obj\Debug\net8.0\AnotaAi.Application.pdb
+D:\Estudos\BackEnd\C#\AnotaAi\AnotaAi.Application\obj\Debug\net8.0\ref\AnotaAi.Application.dll
