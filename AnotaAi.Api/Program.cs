@@ -10,6 +10,8 @@ builder.Services
     .AddInfrastructure()
     .AddApplication();
 
+builder.Services.AddControllers();
+
 builder.Services
     .AddEndpointsApiExplorer()
     .AddSwaggerGen();
@@ -24,5 +26,5 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
+app.MapControllers();
 app.Run();
