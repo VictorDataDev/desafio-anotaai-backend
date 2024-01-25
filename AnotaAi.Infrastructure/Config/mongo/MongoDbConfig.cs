@@ -9,15 +9,16 @@ namespace AnotaAi.Infrastructure.Config.mongo
     {
         public static IServiceCollection AddMongo(this IServiceCollection services)
         {
-            //services.AddSingleton<MongoDbOptions>(sp =>
-            //{
-            //    var configuration = sp.GetService<IConfiguration>();
-            //    var options = new MongoDbOptions();
 
-            //    configuration.GetSection("Mongo").Bind(options);
+            services.AddSingleton<MongoDbOptions>(sp =>
+            {
+                var configuration = sp.GetService<IConfiguration>();
+                var options = new MongoDbOptions();
 
-            //    return options;
-            //});
+                configuration.GetSection("MongoConnection").Bind(options);
+
+                return options;
+            });
 
             services.AddSingleton<IMongoClient>(sp =>
             {

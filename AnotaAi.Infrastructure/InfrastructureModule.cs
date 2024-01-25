@@ -1,7 +1,8 @@
 ﻿using AnotaAi.Infrastructure.Config.mongo;
-using AnotaAi.Infrastructure.Repositories.Category;
-using AnotaAi.Infrastructure.Repositories.Product;
+using AnotaAi.Core.Repositories.Categorys;
+using AnotaAi.Core.Repositories.Products;
 using Microsoft.Extensions.DependencyInjection;
+using AnotaAi.Core.Interfaces;
 
 namespace AnotaAi.Infrastructure
 {
@@ -18,8 +19,8 @@ namespace AnotaAi.Infrastructure
 
         private static IServiceCollection AddRepositories(this IServiceCollection services)
         {
-            services.AddScoped<ICategoryRepository, CategoryRepository>();
-            services.AddScoped<IProductRepository, ProductRepository>();
+            services.AddScoped<ICategoryRepository, CategoryMongoDbRepository>();
+            services.AddScoped<IProductRepository, ProductMongoDbRepository>();
 
             return services;
         }
