@@ -1,5 +1,6 @@
-﻿using AnotaAi.Application.Services.Category;
-using AnotaAi.Application.Services.Product;
+﻿using AnotaAi.Application.IServices;
+using AnotaAi.Application.Services.Category;
+using AnotaAi.Application.Services.Products;
 using AnotaAi.Application.Services.ServiceBus;
 using Microsoft.Extensions.DependencyInjection;
 

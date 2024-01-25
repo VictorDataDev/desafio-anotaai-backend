@@ -1,5 +1,4 @@
-﻿
-namespace AnotaAi.Application.Services.Category
+﻿namespace AnotaAi.Application.IServices
 {
     public interface ICategoryService
     {
